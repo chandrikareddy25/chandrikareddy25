@@ -1,9 +1,9 @@
 
 # 👋 Hi, I'm Chandrika Reddy Chimmula
 
-> “Data is a tool for empowerment. The more you know, the better decisions you can make.”
 
-**Exploring Data Science and Analytics | Python | Excel | SQL | Power BI | Tableau**
+
+Exploring **Data Science and Analytics | Python | Excel | SQL | Power BI | Tableau**
 
 A data-driven problem solver transitioning into the world of **Data Analytics** after gaining hands-on experience in tech operations and web development. My passion lies in working with **data to uncover trends, tell stories, and support business decisions**. I enjoy transforming messy datasets into clear, insightful visuals and reports that drive real-world impact.
 
