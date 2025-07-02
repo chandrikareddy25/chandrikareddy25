@@ -7,7 +7,7 @@
 
 A data-driven problem solver transitioning into the world of **Data Analytics** after gaining hands-on experience in tech operations and web development. My passion lies in working with **data to uncover trends, tell stories, and support business decisions**. I enjoy transforming messy datasets into clear, insightful visuals and reports that drive real-world impact.
 
----
+
 
 ## 🔍 Current Focus
 
@@ -15,7 +15,6 @@ A data-driven problem solver transitioning into the world of **Data Analytics** 
 - 📊 Working with **Excel, SQL, Python (Pandas, NumPy)** and **Power BI/Tableau**
 - 🤖 Exploring **Machine Learning Basics** and **real-world data analytics**
 
----
 
 ## 💼 Skills
 
@@ -32,22 +31,23 @@ A data-driven problem solver transitioning into the world of **Data Analytics** 
 - Business requirement analysis  
 - Attention to detail
 
----
 
-## 📊 Projects (Coming Soon)
+
+## 📊 Projects
 
 - **G20 Economic and Social Insights Using World Bank Data** – Python, Pandas, Tableau
 - **Walmart Sales Data Analysis** – SQL, Python, Pandas, Matplotlib  
 - **Spotify Streaming Behavior Analytics** - Python, Pandas, Power BI 
 
---- 
+
+
 
 ## 📫 Let’s Connect
 
 - 📧 Email: [chandrikareddychimmula25@gmail.com]  
-- 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/ccreddy25)  
+- 💼 LinkedIn: [linkedin.com/in/ccr25](https://linkedin.com/in/ccreddy25)  
 
----
+
 
 ## 🧠 Past Experience Highlights
 
@@ -57,12 +57,12 @@ A data-driven problem solver transitioning into the world of **Data Analytics** 
 - Collaborated with founders to analyze potential client data and align services with their needs  
 - Supported IT strategy development with a focus on data-backed decision-making
 
-**Technical Intern** – *ANR Consulting LLC (Sep 2022 – Nov 2022)*  
+**Technical Intern** – *ANR Consulting LLC (Sep 2022 – Jan 2023)*  
 - Helped build the company website and set up basic internal reporting structures  
 - Conducted early research and compiled market data on potential clients  
 - Contributed to content creation and branding using data-driven messaging
 
----
+
 
 Thanks for checking out my profile! 🚀
 Let’s dive into data and make smarter decisions together!
